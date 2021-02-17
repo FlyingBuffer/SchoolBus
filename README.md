@@ -1,11 +1,8 @@
 #  <center>SchoolBus System</center>
-前端代码链接：
-
-
-###项目地址
-###  访问地址
-
-###页面代码
+项目访问地址：[SchooolBus](https://www.jianshu.com/p/8cb409327f01)
 
 ## 项目技术栈
-SpringBoot、Dubbo、ZooKeeper、redis
+后端技术栈
+SpringBoot、Dubbo、ZooKeeper
+前端技术栈
+Vue
